@@ -51,5 +51,15 @@ The backend will run on http://localhost:8080.
   ```
 The frontend will be available at http://localhost:5173.
 
+## note - 
++ you have to provide the basic login crediential for accessing the api's
+  1. open console
+  2. click on the url and you will get one popup box
+  3. enter the credientials
+  ```
+  username : user
+  password : user123
+  ```
+
 
    
